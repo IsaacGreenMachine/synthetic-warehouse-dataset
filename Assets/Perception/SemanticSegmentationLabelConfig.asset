@@ -13,8 +13,12 @@ MonoBehaviour:
   m_Name: SemanticSegmentationLabelConfig
   m_EditorClassIdentifier: 
   m_LabelEntries:
-  - label: Pallet Top
+  - label: pallet top
     color: {r: 0, g: 0, b: 1, a: 1}
-  - label: Pallet Side
+  - label: pallet Side
     color: {r: 0, g: 1, b: 0, a: 1}
+  - label: parcel
+    color: {r: 1, g: 0.3726415, b: 0.21960784, a: 1}
+  - label: forklift
+    color: {r: 0.9427508, g: 1, b: 0, a: 1}
   skyColor: {r: 0, g: 0, b: 0, a: 1}
